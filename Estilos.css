@@ -1,9 +1,9 @@
-h1 {
+h2 {
 
-	color: darkred;
-	font-size: 12px;
+	color: darkblue;
+	font-size: 20px;
 }
-#unico{
+#{
 
 	color: green;
 	font-size: 18px;
@@ -13,4 +13,19 @@ h1 {
 
 	color: red;
 }
+.columna{
 
+	background: rgb(238, 238, 238);
+	border-radius:  5px;
+	color: solid #333;
+}
+.contener{
+
+	margin: 0 auto;
+	width: 50%;
+}
+.precio{
+
+	font-size: 18px;
+	color: grey;
+}
