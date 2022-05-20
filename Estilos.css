@@ -30,14 +30,26 @@ h2 {
 	margin: 0 auto;
 	padding: 10;
 	box-shadow: 10px 10px 5px #888;
+
 }
 .contener{
 
 	margin: 0 auto;
 	width: 50%;
+	
 }
 .precio{
 
 	font-size: 18px;
 	color: grey;
+}
+.bottom{
+
+	background: salmon;
+	border-radius: 3px;
+	display: block;
+	padding: 10px;
+	color: #FFF;
+	text-decoration: none;
+	margin-bottom: 10px;
 }
